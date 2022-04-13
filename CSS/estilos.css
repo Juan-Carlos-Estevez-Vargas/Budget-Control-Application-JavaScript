@@ -264,6 +264,13 @@ h2 {
     }
     .ingreso {
         margin-right: 0px;
+        width: 350px;
+    }
+    .egreso {
+        width: 350px;
+    }
+    .agregar_descripcion {
+        width: 260px;
     }
   }
   
