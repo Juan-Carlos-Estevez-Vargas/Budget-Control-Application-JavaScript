@@ -256,3 +256,14 @@ h2 {
 .elemento:hover .elemento_eliminar--btn { display: block; }
 .elemento:hover .elemento_valor { transform: translateX(-20px); }
 .elemento:hover .elemento_porcentaje { transform: translateX(-20px); }
+
+@media (max-width: 30.625em) {
+    .contenedor {
+        width: 100px;
+        margin: 10px;
+    }
+    .ingreso {
+        margin-right: 0px;
+    }
+  }
+  
